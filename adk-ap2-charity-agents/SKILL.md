@@ -1,9 +1,9 @@
 ---
-name: adk-ap2-trustworthy-agents
+name: adk-ap2-charity-agents
 description: A comprehensive virtual TA skill for the "Building Trustworthy Charity Agents with Google ADK and AP2" codelab. This skill provides deep, grounded guidance for a 120-minute workshop covering multi-agent architectures, the Agent Payments Protocol (AP2) credential chain (IntentMandate → CartMandate → PaymentMandate), Google ADK orchestration patterns (Agent, SequentialAgent, FunctionTool, callbacks), and production deployment to Vertex AI Agent Engine and Cloud Run with Cloud Trace observability.
 metadata:
   version: "1.0"
-  course: adk-ap2-trustworthy-agents
+  course: adk-ap2-charity-agents
   author: Ayo Adedeji
   duration_minutes: 120
   modules: 10
