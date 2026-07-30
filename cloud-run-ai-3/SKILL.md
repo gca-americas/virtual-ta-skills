@@ -1,5 +1,5 @@
 ---
-name: level-3
+name: cloud-run-ai-3
 description: A skill that provides Level 3 workshop information based on reference data.
 ---
 
