@@ -1,5 +1,5 @@
 ---
-name: level-0
+name: testskill
 description: A skill that provides Level 0 workshop information based on reference data.
 metadata:
   version: "1.0"
