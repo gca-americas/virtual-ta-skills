@@ -1,6 +1,6 @@
 ---
-name: level-1
-description: A skill that provides Level 1 workshop information based on reference data.
+name: cloud-run-ai-1
+description: A skill that provides Lab 1 workshop information based on reference data.
 ---
 
 **Procedural Rules:**
