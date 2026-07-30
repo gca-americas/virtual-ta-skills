@@ -3,7 +3,7 @@ name: testskill
 description: A skill that provides Level 0 workshop information based on reference data.
 metadata:
   version: "1.0"
-  course: level-0
+  course: testskill
 ---
 **Procedural Rules:**
 1. **Mandatory Lab Lookup:** Any questions about "workshop content", "key concepts", "the lab steps", or "what do I do" REQUIRE you to use your tools to read `references/instructions.lab.md`.
